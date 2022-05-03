@@ -1,5 +1,6 @@
 # 12 days of toki pona
 https://www.youtube.com/playlist?list=PLJ9msWGtg3FIXCqyqs5XcsMTUHjUUS7OY
+I made this repo mostly for myself to store the daily vocab for offline use and ease of acces, so i dont have to go to youtube to get the vocab  
 # DAY ONE VOCAB
 mi "me"  
 sina "you"  
